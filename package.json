@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "factory": "tsc && node Factory.js",
-    "singleton": "tsc && node Singleton.js",
+    "factory": "tsc && node dist/Factory.js",
+    "singleton": "tsc && node dist/Singleton.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
