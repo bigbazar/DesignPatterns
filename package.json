@@ -6,6 +6,7 @@
   "scripts": {
     "factory": "tsc && node dist/Factory.js",
     "singleton": "tsc && node dist/Singleton.js",
+    "strategy": "tsc && node dist/Strategy.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
